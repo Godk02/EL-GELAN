@@ -9,13 +9,14 @@ Benchmark for Power Line Inspection]().
 
 
 
-[Download LDLCD Dataset here.]()
-
+[Download LDLCD and syn-LDLCD Datasets here.]()
 
 
 #### Checkpoints for pretrained models are listed below:
 
 - [EL-GELAN for LDLCD]()
+- [EL-GELAN for LDLCD + syn-LDLCD]()
+- [EL-GELAN for PTL-AI]()
 
 
 
