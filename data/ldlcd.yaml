@@ -1,0 +1,15 @@
+path:   # dataset root dir
+train: train/  # train images (relative to 'path')
+val: test/  # val images (relative to 'path')
+test:   #  test images (relative to 'path')
+# Classes
+names:
+  0: Suspension insulator
+  1: Pin insulator
+  2: Pillar insulator
+  3: Butterfly insulator
+  4: Isolation knife
+  5: Transformer
+  6: Pole
+
+
