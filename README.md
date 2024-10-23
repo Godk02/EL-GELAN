@@ -11,10 +11,7 @@ Benchmark for Power Line Inspection]().
 
 [Download LDLCD Dataset here.]()
 
-#### Checkpoints for tensorflow-based models are listed below:
 
-
-The source-code for training can be accessed [here]().
 
 #### Checkpoints for pretrained models are listed below:
 
