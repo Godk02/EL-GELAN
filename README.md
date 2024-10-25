@@ -9,7 +9,7 @@ Benchmark for Power Line Inspection]().
 
 
 
-Download LDLCD and syn-LDLCD Datasets here.[baiduyun. code: xdku](https://pan.baidu.com/s/1KXV7SBJf7T5l3L7YYjjfAw?pwd=xdku)
+Download LDLCD and syn-LDLCD Datasets. code: xdku [baiduyun](https://pan.baidu.com/s/1KXV7SBJf7T5l3L7YYjjfAw?pwd=xdku)
 
 
 #### pretrained models are listed below:
@@ -24,17 +24,15 @@ Download LDLCD and syn-LDLCD Datasets here.[baiduyun. code: xdku](https://pan.ba
 ## Abstract
 
 
-## Datasets Statistics
+<!--## Datasets Statistics
 
-![statistics](imgs/statistics.png) 
+![statistics](imgs/statistics.png) -->
 
-## Dataset Samples
+## LDLCD Dataset Samples
 
 ![samples](imgs/samples.png)
 
-## Annotated Samples
-
-![annotated_samples](imgs/annotated_samples.png)
+## syn-LDLCD Dataset Samples
 
 
 # Acknowledgment
