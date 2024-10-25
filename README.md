@@ -36,5 +36,5 @@ Download LDLCD and syn-LDLCD Datasets. code: xdku [baiduyun](https://pan.baidu.c
 
 # Acknowledgment
 	
-
+This code is built on [YOLOv9 (PyTorch)](https://github.com/WongKinYiu/yolov9). We thank the authors for sharing the codes.
 
