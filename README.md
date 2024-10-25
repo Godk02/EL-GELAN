@@ -20,10 +20,10 @@ Download LDLCD and syn-LDLCD Datasets from Google Drive [here]().
 - [EL-GELAN for PTL-AI]()
 
 
-## Abstract
+<!--## Abstract
 
 
-<!--## Datasets Statistics
+## Datasets Statistics
 
 ![statistics](imgs/statistics.png) -->
 
