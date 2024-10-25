@@ -30,7 +30,7 @@ Download LDLCD and syn-LDLCD Datasets. code: xdku [baiduyun](https://pan.baidu.c
 
 ## LDLCD Dataset Samples
 
-![samples](imgs/samples.png)
+![samples](data\images\ldlcd.png)
 
 ## syn-LDLCD Dataset Samples
 
