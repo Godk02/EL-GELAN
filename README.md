@@ -19,8 +19,6 @@ Download LDLCD and syn-LDLCD Datasets. code: xdku [baiduyun](https://pan.baidu.c
 - [EL-GELAN for PTL-AI]()
 
 
-
-
 ## Abstract
 
 
@@ -34,6 +32,7 @@ Download LDLCD and syn-LDLCD Datasets. code: xdku [baiduyun](https://pan.baidu.c
 
 ## syn-LDLCD Dataset Samples
 
+![samples](data\images\syn-ldlcd.png)
 
 # Acknowledgment
 	
